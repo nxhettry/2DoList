@@ -1,0 +1,1 @@
+This is a simple todo list made using NodeJs & express for backend, ejs and css for frontend, and postGRES for database. This might not run while cloning as the database is running locally on my computer, but donot forget to see the code and contribute if you find anything that can be improved.
